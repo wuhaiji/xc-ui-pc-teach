@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd6f70ef-b367-4dc1-9ab3-a4972a9c1ce4" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="xc-ui-pc-static-portal" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>picker</find>
+      <find>upload</find>
+      <find>fileList</find>
+      <find>uploadFile</find>
+      <find>fileMd5</find>
+      <find>alert(</find>
+      <find>uploader</find>
+      <find>上传文件失败，请刷新页面重试</find>
+      <find>loginFormVisible</find>
+      <find>login</find>
+      <find>user.</find>
+      <find>getActiveUser</find>
+      <find>checkActiveUser</find>
+      <find>logout</find>
+      <find>getUserSession</find>
+      <find>user</find>
+      <find>getUserInfoFromJwt</find>
+      <find>欢迎</find>
+      <find>setUserSession</find>
+      <find>learnstatus</find>
+      <find>queryCompanyStat</find>
+      <find>showlogin</find>
+      <find>delUserSession</find>
+      <find>createOrder</find>
+      <find>getLearnstatus</find>
+      <find>popup-box</find>
+      <find>headVm</find>
+      <find>buy</find>
+      <find>Message</find>
+      <find>#include</find>
+    </findStrings>
+    <dirStrings>
+      <dir>F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal</dir>
+    </dirStrings>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+  </component>
+  <component name="ProjectId" id="1XNcHRUQoNh4XFm1z6zaqW8zFEU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="F:/NodeJs/node_modules/npm" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="F:/NodeJs/node" />
+    <property name="nodejs_package_manager_path" value="F:/NodeJs/node_modules/npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal" />
+      <recent name="F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal\js" />
+      <recent name="F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal\include" />
+      <recent name="F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal\plugins\webuploader" />
+      <recent name="F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal\plugins\ckplayer" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/webpacktest02/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd6f70ef-b367-4dc1-9ab3-a4972a9c1ce4" name="Default" comment="" />
+      <created>1522380484107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522380484107</updated>
+      <workItem from="1522380485408" duration="3321000" />
+      <workItem from="1522508971246" duration="774000" />
+      <workItem from="1523427826704" duration="1327000" />
+      <workItem from="1524130929472" duration="1877000" />
+      <workItem from="1524879081123" duration="42000" />
+      <workItem from="1525783769466" duration="7861000" />
+      <workItem from="1525855065000" duration="1553000" />
+      <workItem from="1525875545751" duration="590000" />
+      <workItem from="1525919502156" duration="32220000" />
+      <workItem from="1526894397864" duration="9476000" />
+      <workItem from="1526977959394" duration="13563000" />
+      <workItem from="1527237696038" duration="16456000" />
+      <workItem from="1527865495024" duration="667000" />
+      <workItem from="1527923954209" duration="1626000" />
+      <workItem from="1528153794416" duration="4484000" />
+      <workItem from="1528173396953" duration="621000" />
+      <workItem from="1528190447746" duration="8000" />
+      <workItem from="1528249696513" duration="770000" />
+      <workItem from="1580889926757" duration="1366000" />
+      <workItem from="1581073575541" duration="1461000" />
+      <workItem from="1581083320181" duration="30000" />
+      <workItem from="1581334755989" duration="2835000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1580890196851">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580890196851" />
+    <state width="1892" height="327" key="GridCell.Tab.0.bottom" timestamp="1581075126820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1892" height="327" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581075126820" />
+    <state width="1892" height="327" key="GridCell.Tab.0.center" timestamp="1581075126819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1892" height="327" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581075126819" />
+    <state width="1892" height="327" key="GridCell.Tab.0.left" timestamp="1581075126819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1892" height="327" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581075126819" />
+    <state width="1892" height="327" key="GridCell.Tab.0.right" timestamp="1581075126820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1892" height="327" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581075126820" />
+    <state width="1892" height="327" key="GridCell.Tab.1.bottom" timestamp="1581075126820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1892" height="327" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581075126820" />
+    <state width="1892" height="327" key="GridCell.Tab.1.center" timestamp="1581075126820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1892" height="327" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581075126820" />
+    <state width="1892" height="327" key="GridCell.Tab.1.left" timestamp="1581075126820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1892" height="327" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581075126820" />
+    <state width="1892" height="327" key="GridCell.Tab.1.right" timestamp="1581075126820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1892" height="327" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581075126820" />
+    <state width="1892" height="327" key="GridCell.Tab.2.bottom" timestamp="1581075126821">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1892" height="327" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581075126821" />
+    <state width="1892" height="327" key="GridCell.Tab.2.center" timestamp="1581075126820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1892" height="327" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581075126820" />
+    <state width="1892" height="327" key="GridCell.Tab.2.left" timestamp="1581075126820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1892" height="327" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581075126820" />
+    <state width="1892" height="327" key="GridCell.Tab.2.right" timestamp="1581075126820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1892" height="327" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581075126820" />
+    <state width="1892" height="327" key="GridCell.Tab.3.bottom" timestamp="1581075126821">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1892" height="327" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581075126821" />
+    <state width="1892" height="327" key="GridCell.Tab.3.center" timestamp="1581075126821">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1892" height="327" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581075126821" />
+    <state width="1892" height="327" key="GridCell.Tab.3.left" timestamp="1581075126821">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1892" height="327" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581075126821" />
+    <state width="1892" height="327" key="GridCell.Tab.3.right" timestamp="1581075126821">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1892" height="327" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581075126821" />
+    <state x="461" y="127" key="SettingsEditor" timestamp="1580890663472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="127" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580890663472" />
+  </component>
+</project>
